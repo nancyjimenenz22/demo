@@ -1,2 +1,3 @@
 # demo
-first GitHub repository
+first GitHub repository by
+Nancy Jimenez
